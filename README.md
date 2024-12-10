@@ -1,0 +1,1 @@
+Used Random Trivia API to build a SwiftUI application that allows users to answer questions of various difficulty and categories. Application displays if user answered questions correctly. On refresh, questions randomly generate.
